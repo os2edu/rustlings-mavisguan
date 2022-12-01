@@ -8,7 +8,7 @@
 
 
 use std::f32;
-use core::f32::consts::PI;
+use std::f32::consts::PI;
 
 fn main() {
     let pi = PI;
